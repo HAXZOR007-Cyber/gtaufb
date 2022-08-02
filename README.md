@@ -1,3 +1,5 @@
+# semoga dapet ijo ya jangan lupa follow github ku
+# jangan lupa follow github ku
 ```bash
 $ pkg update && upgrade
 
